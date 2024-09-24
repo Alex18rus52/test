@@ -1,0 +1,13 @@
+body{
+    background: url(../image/Bgr.jpg) lightblue repeat-x bottom;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    list-style-type: lower-roman;
+}
+.color{
+    color: crimson;
+    font-size: 2rem;
+}
